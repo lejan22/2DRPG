@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 4542eae682d846442a37f017ff5579fb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 26
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 314
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de51ce14579f864faa7fbe09f25bfa6
+      internalID: 919470256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 316
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc646d1d7c2bde4099e6196127a192c
+      internalID: -1140194374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 315
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07fe1296a9718343a901db4f98d5278
+      internalID: 787120133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 270
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c5e80157326504bae9d1a031d4d824
+      internalID: -661276849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 271
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe3c136fff6c67478f16c7f1d664f4d
+      internalID: 2139302953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 266
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf55996f33ab1e246afb581a3d5b1a0d
+      internalID: -934622078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 267
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d51a59e684dd24593f58bdbb66b58a
+      internalID: -2080441481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 220
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc15e0a7507446e49939ae5bf2fd9986
+      internalID: 1889196356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 221
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c547036954ee43a8177309808efab
+      internalID: -1210437961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 199
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8865cdea86322f4daabfe88f8f69f62
+      internalID: -1719928077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 199
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef14c4461d55374b85b58b77d5d11cf
+      internalID: 319816107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 165
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67434650f35c2c14c8a3802f3fd8af88
+      internalID: -1299885378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 165
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46139769a4a8084bb77f2c71f23785b
+      internalID: -1574766925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 145
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0421454dc16ed64dafc7cde7f831728
+      internalID: -930689657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 145
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e433c829343c84c86deb1b36cffd51
+      internalID: -910355470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c879bf63d180fd9479d4855cb2d60a9f
+      internalID: -1748904583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 107
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86b972ee3685974987ed97e1ba4595c
+      internalID: -139142443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 57
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f04209ac3c2954ba3bdf7a099e7229
+      internalID: 199398872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 30
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba55864959e5cb4397c4a17fe66010b
+      internalID: 2102349812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e369f4b79d76fe64ab406189e0f96a9f
+      internalID: -590650181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 30
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bcd1dff65b9d14c811e9f515333336
+      internalID: -1892754295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 30
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d42972eb40ce0499c600c1366b9999
+      internalID: 404182657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 30
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e4ed9d2a9aa3145a9f0e450d911c76
+      internalID: 1471325572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3a91bc051a3941ad33aca1673fa82
+      internalID: 1344172104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 30
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b99edcfef8f67547857a25ad05247c8
+      internalID: -1417447111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 30
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d3d4aeb091c24db51c987a6585eb1
+      internalID: 723228247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 30
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a0f88137af15b4993151ad3917f18d
+      internalID: 1732603178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 30
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ad07431d7f2784cb4feb826270d118
+      internalID: -2071500639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_28
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 27
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eecad34f932aa40a10c518df518aa6
+      internalID: 235022765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 30
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a0d65b8a65304c991407ab3e49d9d
+      internalID: 334132954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde1dd710e029945859a575623e41e5
+      internalID: 1100653810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc9498f698c4143840015919ba2cf7
+      internalID: 1198946244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff9aacdb6e0f646adc6fe0bc206ed8
+      internalID: -837623656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_33
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 15
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b447171122da543bbdcbbe0e3ac891
+      internalID: 520218062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9551e85b89795c448beb457373bcf732
+      internalID: 1604084602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 15
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aae0c1eebc65a48b6e5c8e0a9d7478
+      internalID: 2029572638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 15
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f1bb16d8090854181559bbba946443
+      internalID: 1413660767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 15
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f607c0957dd5df4fbb4219990df79f1
+      internalID: -2029344081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c517ff9f97ac942b2814c7e73fbfd9
+      internalID: 1116000361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_39
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 15
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e98cf6611e91a4ba245cddf20eb67f
+      internalID: 1681339923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_35: 2029572638
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_38: 1116000361
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_8: -1210437961
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_24: -1417447111
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_13: -930689657
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_30: 1100653810
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_27: -2071500639
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_20: -1892754295
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_39: 1681339923
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_15: -1748904583
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_22: 1471325572
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_37: -2029344081
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_7: 1889196356
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_32: -837623656
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_12: -1574766925
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_36: 1413660767
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_26: 1732603178
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_2: 787120133
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_29: 334132954
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_28: 235022765
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_18: 2102349812
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_4: 2139302953
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_10: 319816107
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_14: -910355470
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_1: -1140194374
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_0: 919470256
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_6: -2080441481
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_17: 199398872
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_3: -661276849
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_16: -139142443
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_5: -934622078
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_31: 1198946244
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_11: -1299885378
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_34: 1604084602
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_19: -590650181
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_23: 1344172104
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_25: 723228247
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_21: 404182657
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_9: -1719928077
+      Game Boy Advance - Mother 3 JPN - Fierce Pork Trooper_33: 520218062
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

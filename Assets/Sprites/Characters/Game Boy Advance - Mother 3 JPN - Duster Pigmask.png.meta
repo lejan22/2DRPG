@@ -1,0 +1,3677 @@
+fileFormatVersion: 2
+guid: d46727608670f1f44a0a47f85df7a386
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 26
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 562
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6741b42bd7752c41a42a336cfc66ab8
+      internalID: -1558657549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 562
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea762ec753017046917a0e7156bd5c0
+      internalID: -2016804927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 562
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b493547945ddb84aa657b71a784ec0d
+      internalID: 764353776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 562
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f98427f57c9584e8ac3c11c2c84153
+      internalID: -289443283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 562
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3115f794c21618441bfff62ea25959d5
+      internalID: 1782305276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 562
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6432f36953d99fc4eac7775082de169f
+      internalID: -1537908299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 562
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d574e7f3d513e64cbff3cb676e9ca80
+      internalID: 517837167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 562
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be2bc08609cbde40af992243a674a95
+      internalID: -550451624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 530
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b4c34028f01f248888e718ac6b489a
+      internalID: 711510579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 530
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564bd6586359d854290df8e21a9c4838
+      internalID: 1082508356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 530
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27487c14acde89468cb5cf0874c0e71
+      internalID: 555624449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 530
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b59f79a638cc15448be9da509b607f5
+      internalID: -323841786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 530
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47a5501f8d14f4799c86c8c34f14e6
+      internalID: -697830001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 530
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041f15f15490514896f2bfd6b3ce7f1
+      internalID: -1799004205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 530
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4008a8b07c64c943928588b80b9eb8f
+      internalID: -136135091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 530
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a287bc8c0c224d96a35587fdd8013
+      internalID: -1326740609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 530
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399335988d4d3cf48bd93380a9d28808
+      internalID: 181440389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 530
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68fe2eeecea3c041a89310fb3e56816
+      internalID: -1744272695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 530
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df0e96b439349b498fac0deb236e613
+      internalID: 151524548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 530
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db05cb618d96c5c46a2b33eb7c65fffb
+      internalID: -1968546904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 498
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b9cb7da9b9ca44dab930006d702639
+      internalID: -1072530446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 498
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ea67cba0b77af4fb70b8927f340fba
+      internalID: -806424776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 498
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99473a3f784eaac4582c4c988af86498
+      internalID: 6138363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 498
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60e002c65de77e46954827ad31bb0b4
+      internalID: -407123862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 498
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb36e7a05b9de7c479bcc2622c0647c7
+      internalID: 1217199522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 498
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c03258fb91ebd4c8a3740bdc290770
+      internalID: 1588846477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 498
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc8be1b7cad4414383ce44828b1dbdb
+      internalID: 1282000039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 498
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d24ea9f3c6cac842a3ff444a5146740
+      internalID: -1700492219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 498
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a300cb9e5403ad428574386ab5f26d3
+      internalID: -1796539309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 498
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d544ca2324f6ad41961853015f2ab8c
+      internalID: -544954649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 498
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac29e389bfba4a440a54786cb07f8db1
+      internalID: 2006131978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 498
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f4f92ab68c9a409665201a6c3e657
+      internalID: -383129641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 466
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022daca25df922341bee9449a7c6c2e5
+      internalID: 23308474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_33
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 466
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d09c9556fb900f428ead487ed538ffa
+      internalID: 1931646562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 466
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd9b80c660a74479511d6e686cd00b
+      internalID: -1700146037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_35
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 466
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a6ab812a5e9284db7d1843950811e0
+      internalID: -1207100332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_36
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 466
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a834d70f3d5eb4b83d69bb17118c0a
+      internalID: 107136034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_37
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 466
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e580f031ebf60549be1bee9a8e565a9
+      internalID: 1595723438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_38
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 466
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fe9099983c4044b848f2b1aee43112
+      internalID: 644147170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_39
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 466
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9d6b47b232b740a931abaa15a3647
+      internalID: 2104331556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 435
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1177fff30e2dc4b9708f52f6cb64a7
+      internalID: 32236022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 435
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76427f1ceb5de4f469c58d3478891551
+      internalID: 2145092460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 435
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7a01ae071f6964bb87ed328ad5b3e1
+      internalID: -41046202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 435
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e03ce9d82ffd945a7f266e5474105e
+      internalID: -302458640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_44
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 435
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f60aa374fdbb142b5c071b2982f346
+      internalID: -542843197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 435
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b21fd77fff284880ca9abc92676c0
+      internalID: 730134382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 435
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a86aa9733cc0b148a4743310c404a16
+      internalID: 1511622734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 435
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6955b517cb6464843b8b368871e254b3
+      internalID: 74845922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 404
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44033a38b2c0585499326d4302e45855
+      internalID: -1259824542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 404
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee658a71b0850fb49aefb0386139fb19
+      internalID: -2028338682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 404
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948883121af4644d855b66304627cca
+      internalID: -920795861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 404
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad43177ff8aea14d88880487755d5c2
+      internalID: -438629711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 404
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc57df2df8df8bc43b81a1645ef5917a
+      internalID: 331092049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 404
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87a7f365aa3551428bafa1fdefac919
+      internalID: 2026380139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 404
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110056345e5e1fb468de8266443628cd
+      internalID: -1570418174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_55
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 404
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b70217138e6e546832356b7e851dde
+      internalID: -1594790008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_56
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 404
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd0393f5468296459e2c15b07da7264
+      internalID: -632594901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 404
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d856f9cb49b08498588de6c634ec0e
+      internalID: 1260986600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 404
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b124223df619642b400c4a613e1342
+      internalID: -1922666256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_59
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 404
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463a4e92d29b280458ccfc8e8164fa43
+      internalID: -1582130056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_60
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 404
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbec74777c02724ab3facffb2abd020
+      internalID: 329730121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_61
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 404
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95899ef389e247643bd8f221bb5ca3bf
+      internalID: -18385159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_62
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 404
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baff5f3309b06cc4eb10c337b189e5b4
+      internalID: -376013646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 374
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7369e012befefd5429ffc8a0eb2cc389
+      internalID: -1772179020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 374
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eda66d044fdd54bacd610767439f64
+      internalID: 1741736198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 374
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b41e51c27da7dc4cb47e2619b42db97
+      internalID: 1931875004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_66
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 374
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9046afa3bd98de46afb8dea8eb83e95
+      internalID: 128244348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_67
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 374
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57147313500df81428e969fb7ff39501
+      internalID: 1021688537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_68
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 374
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cd8f0a01210c446ba65bf6ee59428a
+      internalID: -2078228728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_69
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 374
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1584b83485c434daf82538da6aefbc
+      internalID: 370829278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 374
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57a58f39023fb341a00accc92cd0212
+      internalID: 666456527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 374
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff018856461c2a14d8375c42b3ff3171
+      internalID: -426969131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 345
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76550ca29d486da48afe90fac81b3fb9
+      internalID: -296013146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 345
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdb00a23a1b89144a9d621b043caadc
+      internalID: 14322530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_74
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 345
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439eafc1d79097b4faf16d0e8d77937f
+      internalID: 1184157690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 345
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e50016d0425a4f85ac0954e1df481
+      internalID: -1387958903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_76
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 345
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c258f60938bd144ca6b555c79a5a2c7
+      internalID: -2079869470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_77
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 345
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8d8e271cdb365468afdaf133341c65
+      internalID: -1822473858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_78
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 345
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd96c66a8b640ab489613c542d2548a1
+      internalID: 1988746819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_79
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 345
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e0ff09d9d051147bc8196f9b50fb78
+      internalID: 1466119788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 317
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f7ce8708898e2438830af4ebfca607
+      internalID: 716295316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 317
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c375421ef1b294091b9dbeb6f13296
+      internalID: -1574473536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_82
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 317
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ab75133fc19534abd261f7c862c680
+      internalID: -2103966799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_83
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 317
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffed7f3e93af21044b29dd514985d335
+      internalID: 1564415338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_84
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 317
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ce0c5f86b8914c9175ad0f55b827a
+      internalID: 201622815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_85
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 317
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9abd79e038c9e4a88d3802272b246d
+      internalID: -546982722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 317
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380acdab056c46f4b93da28a3450413a
+      internalID: -1976612973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_87
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 317
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ba8cd5bc3f97c489706f53b683d18a
+      internalID: -1822628152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 286
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e8716903a9994ab55945e4c58fbac
+      internalID: 1282013879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 286
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a0d394f2d71524a9bed23d7966b735
+      internalID: -2059591269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_90
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8939353ff065561479159862094973dc
+      internalID: 1124184124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 286
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd7e69239c8a3e4ea5723a5d4026756
+      internalID: 1159671516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 286
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ddc0c7dd3706c48a524937a71bdc44
+      internalID: 205307884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_93
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 286
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8823070b59168a5429513c6dd9e6fe0a
+      internalID: 1376754130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_94
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 286
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cec99a85bc989419fe03211d233e1c
+      internalID: 1766372099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_95
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 286
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a48c8778f950419c4af56ef8e6861
+      internalID: 111533737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_96
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 286
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd076e7eeb8d20c40aa598f30c8da5c6
+      internalID: -31315243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_97
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 286
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ba6a6682fe7e4ba36940014ec2b43
+      internalID: -1118836879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_98
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 286
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb59bb973cd5764db4dbbd55f6a18bb
+      internalID: -362913067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_99
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 286
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed61f7452d74a498ba551bccbf1ef5
+      internalID: -437111226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 254
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48adfc0cc57bc048981fa87e8468415
+      internalID: -215760090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_101
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 254
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a376b64e000cf074f84969ded4065da5
+      internalID: -1570114356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 254
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1cfef4d6b137b449f568949ef6ffcd
+      internalID: 1876877471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_103
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 254
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09162fcc8fdb1d745a77f04c4c3886d2
+      internalID: 1409744909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_104
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 254
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b544d613f3073145a396ebedde6b026
+      internalID: 795759790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_105
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 254
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa071fc9b7fb4418d617514ee6972a
+      internalID: -1087129099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_106
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 254
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff69292c55d1cc448c3a11e251637c9
+      internalID: -1377998509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 254
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474576255f0012b43b30f2f848b39265
+      internalID: 941188242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_108
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 254
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb424746bef1b24c8685399208ce150
+      internalID: -70535386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_109
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 254
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ea1c70b1ae6843a0b8f0edba5c67d
+      internalID: 99076822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_110
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 254
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d027bcfb2b0064a88a24326424b9fd
+      internalID: -603669321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_111
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 254
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f02bbb4b618fd64ebc0404b4c45798f
+      internalID: -65120328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 221
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7a2eda5ffffd4682366a672240781
+      internalID: -109701442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_113
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 221
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019efb0d95ca5884cabe8c176aa96336
+      internalID: 162072611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_114
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 221
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23fbbbb0d519244d9526f61be8b215f
+      internalID: 1552619155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 221
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09bac50b98a0f54184ced954ed26106
+      internalID: 549008449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_116
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 221
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6ccef2a2974624abebf1c789469b5a
+      internalID: 1978846130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_117
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 221
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d825027dd28aef46a17553576e5b6fc
+      internalID: 1069043690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_118
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 221
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd49bb8b1a9a94459e74f324e4808c4
+      internalID: -743073252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_119
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 221
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb8faad3cf6674ea230f2d7371902e
+      internalID: 176851710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_120
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 188
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4027969dbea614480f431918a72c5c
+      internalID: -923245137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_121
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 188
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab206542340d52240ae78160b5a18857
+      internalID: -401646238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_122
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 188
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1e595b1db6d1b4ab5c54c237158c20
+      internalID: -180090563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_123
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 188
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3d3f316bfd1b44ab2763f9c9ffd7b4
+      internalID: 1514161457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_124
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 188
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50677b49e40ac0145bec645e5bcfdd6b
+      internalID: 662936139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_125
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 188
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95493af21518e5d4a9f28ba31ea0be89
+      internalID: 874885287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_126
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 188
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf10e43566a90043bc5d74f3a6533e7
+      internalID: -1126656733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 188
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52115ca93d82618408ef99184b56a48a
+      internalID: 148189110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_128
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 188
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5483d4ff0cfa9478fcb63c70f4743e
+      internalID: -908176309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_129
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 188
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0146485c4c9374aa3fdcb1856972f6
+      internalID: -1828262756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_130
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 188
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b8d8154cd89b04089004cf38391197
+      internalID: 551286116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_131
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 188
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab4d8c7b7e0ff49b775aebdfc033ca
+      internalID: -663045003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_132
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 188
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73d5fa4ee4fd8f4eaafb4672f5b8657
+      internalID: 1535830134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_133
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 188
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd636bbe0306a2940bd119cf17bedb37
+      internalID: 1041174342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_134
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 155
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7ffdf8724504f4394d7c01a2183ece
+      internalID: -1987303950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_135
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 155
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0054b1a388593469116f21d839d6fb
+      internalID: 1359406162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_136
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 123
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0fa9a10f9e3064e8a72e7755193797
+      internalID: 675349786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_137
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 123
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa1179e1147e3541b50ebf412be587e
+      internalID: 530847526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_138
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 123
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b10256d8376704cbd8a7522291d02e
+      internalID: -633642475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_139
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 91
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bb0ab32a63e034fb4fe37633e5278a
+      internalID: 821403887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_140
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 91
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9dfe592fef21a408cd6ff4c15c05fa
+      internalID: 1598576832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_141
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 91
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca86d8f8f43165e469169606607e59da
+      internalID: -1587290165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_142
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 91
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555931dc75899d2498e0e3134e313721
+      internalID: -1847714561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_143
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 91
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94c0152660fc5e4eaca6111b059684d
+      internalID: -27505481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_144
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337a7b9957de5664c96250288f080890
+      internalID: 954352342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_145
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 60
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adfc67ed4003684fb9d5ca6f2ba2a5b
+      internalID: -1679467511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_146
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a321c795dcc0a9d4da05e720d1e5a4c0
+      internalID: 1455623323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_147
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239943b6050d8614ab89f3e29dacf8d3
+      internalID: 2137481809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_148
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 36
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962fee347558ba444a5e01c0bb9820bc
+      internalID: 1808701085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_149
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 36
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b66c762c3465a4f9dcbed37f3e0905
+      internalID: 1052739349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_150
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 36
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebf336985f62e64897a7327065a9f7d
+      internalID: -228820350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_151
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 36
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec000a32b6556ba4ea6f19a6f332539e
+      internalID: 1723186644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_152
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 36
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6a706829b4d9849908d1af71dba0f9
+      internalID: -2081791297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 355
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d38974c1ef296419cc55cfa3df9583
+      internalID: -254979948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_154
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da7b47752937f479eeee2e841a727a
+      internalID: -1152164914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_155
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 11
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656ac2cc1363cf14b97fb22e7149b5f7
+      internalID: 1724693327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_156
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 11
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e06cdb0c49ac84ba4ddf858a72f7eb
+      internalID: 387417238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_157
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 11
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bfde6b53144b1478be5d4a4248e837
+      internalID: 1164977373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_158
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7c78f961da6514188028c84ddda30a
+      internalID: 1359754244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_159
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 11
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507f71de834228a45a82cfc8a32bae13
+      internalID: 103136442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Duster Pigmask_160
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 11
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a4cd2bbf07dee4886fd97c2db20f99
+      internalID: 693731000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_96: -31315243
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_15: -1326740609
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_109: 99076822
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_126: -1126656733
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_24: 1217199522
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_65: 1931875004
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_124: 662936139
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_92: 205307884
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_101: -1570114356
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_57: 1260986600
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_129: -1828262756
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_125: 874885287
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_33: 1931646562
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_103: 1409744909
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_158: 1359754244
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_48: -1259824542
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_93: 1376754130
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_75: -1387958903
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_148: 1808701085
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_68: -2078228728
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_46: 1511622734
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_113: 162072611
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_36: 107136034
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_70: 666456527
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_21: -806424776
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_106: -1377998509
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_1: -2016804927
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_138: -633642475
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_146: 1455623323
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_4: 1782305276
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_100: -215760090
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_130: 551286116
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_53: 2026380139
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_66: 128244348
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_67: 1021688537
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_10: 555624449
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_110: -603669321
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_85: -546982722
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_49: -2028338682
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_117: 1069043690
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_8: 711510579
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_157: 1164977373
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_140: 1598576832
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_62: -376013646
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_13: -1799004205
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_58: -1922666256
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_30: 2006131978
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_98: -362913067
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_153: -254979948
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_7: -550451624
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_123: 1514161457
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_84: 201622815
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_115: 549008449
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_137: 530847526
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_116: 1978846130
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_45: 730134382
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_90: 1124184124
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_81: -1574473536
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_160: 693731000
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_147: 2137481809
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_97: -1118836879
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_52: 331092049
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_73: 14322530
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_27: -1700492219
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_142: -1847714561
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_127: 148189110
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_104: 795759790
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_121: -401646238
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_44: -542843197
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_6: 517837167
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_79: 1466119788
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_131: -663045003
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_145: -1679467511
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_22: 6138363
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_152: -2081791297
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_114: 1552619155
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_25: 1588846477
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_51: -438629711
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_43: -302458640
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_54: -1570418174
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_34: -1700146037
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_105: -1087129099
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_64: 1741736198
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_14: -136135091
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_20: -1072530446
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_40: 32236022
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_139: 821403887
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_72: -296013146
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_144: 954352342
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_29: -544954649
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_118: -743073252
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_23: -407123862
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_155: 1724693327
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_5: -1537908299
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_69: 370829278
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_61: -18385159
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_78: 1988746819
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_32: 23308474
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_42: -41046202
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_26: 1282000039
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_59: -1582130056
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_87: -1822628152
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_19: -1968546904
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_55: -1594790008
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_134: -1987303950
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_135: 1359406162
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_38: 644147170
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_151: 1723186644
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_47: 74845922
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_77: -1822473858
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_11: -323841786
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_31: -383129641
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_60: 329730121
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_76: -2079869470
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_122: -180090563
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_111: -65120328
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_150: -228820350
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_0: -1558657549
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_3: -289443283
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_18: 151524548
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_37: 1595723438
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_39: 2104331556
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_89: -2059591269
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_80: 716295316
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_9: 1082508356
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_112: -109701442
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_17: -1744272695
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_99: -437111226
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_120: -923245137
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_95: 111533737
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_132: 1535830134
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_133: 1041174342
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_136: 675349786
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_63: -1772179020
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_149: 1052739349
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_2: 764353776
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_16: 181440389
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_94: 1766372099
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_128: -908176309
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_154: -1152164914
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_56: -632594901
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_41: 2145092460
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_156: 387417238
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_28: -1796539309
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_141: -1587290165
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_91: 1159671516
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_86: -1976612973
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_102: 1876877471
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_12: -697830001
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_108: -70535386
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_74: 1184157690
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_107: 941188242
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_159: 103136442
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_143: -27505481
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_71: -426969131
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_119: 176851710
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_82: -2103966799
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_83: 1564415338
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_50: -920795861
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_88: 1282013879
+      Game Boy Advance - Mother 3 JPN - Duster Pigmask_35: -1207100332
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

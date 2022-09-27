@@ -1,0 +1,1785 @@
+fileFormatVersion: 2
+guid: 300180d579e88a04b95a7baf353b1395
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 277
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658ff956833cb8f40bf0626c493a32ac
+      internalID: 2088093586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 276
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735810f0a704fa241b7115b41954231a
+      internalID: -142614963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 276
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d444cf75d1d124e977599aac562cba
+      internalID: 110222677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 275
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a201f0ff9ac7843a529064105a3094
+      internalID: 1385518763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 273
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69df640c4e2f3c9478ad0588d0cfeeea
+      internalID: 1546760892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 252
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e158af395bc57845b82e42b9db6768c
+      internalID: 1099419226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 250
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84512050e3ea824e87e6c8e30da23d6
+      internalID: 193847315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 251
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a997fd0b9e7a7419b75c4bc570c96d
+      internalID: 594294393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 249
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a823ee4c5615d9d46a2d6c1ebbfbb724
+      internalID: 1228905794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 248
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7564f9ce8c428e1429ebcdcd65c36b67
+      internalID: 1663745543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 227
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ceed1d968089f44bd8f0b1cb62d381
+      internalID: -274857149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 225
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b98a07e05454e4cb2ec40eb5584513
+      internalID: 135977025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 224
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940089ca8922be04bb0027e2544107e7
+      internalID: -1551775217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 223
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b0ef01c62ae0b48aa3071b32d27d97
+      internalID: 1334192208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 224
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204f4824580ce943a74f0c3ab67ffe0
+      internalID: 1889516555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 201
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d08b02871fbf84aad49381b2018f52
+      internalID: -516534884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 201
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a8af82ea7a93d4e9a4d723c10a8a5d
+      internalID: -1742556847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 200
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3826a4ea2bb7f6b4498c7c0daeaeba80
+      internalID: 123020715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_18
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 196
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733c66356e2f994495e20653d814afe
+      internalID: -1893624616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 197
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd3cea5a581415449d9312038f6a6d7
+      internalID: 231301819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 156
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9ca711c069a2642a8b3a81bd55b396
+      internalID: -2041651360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 153
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e65006a8e4a3245adb2591ef7ad192
+      internalID: 279080438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 153
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5ea629e077b24dbb689c50e47698c
+      internalID: 164130779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 152
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690bb416c738fe44ab16ca072e552399
+      internalID: 230146082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_24
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 153
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82061d736b46e294b9e6115d41a6843b
+      internalID: -1071942003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 155
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6227a847b32b84d948a9aa4c6fa132
+      internalID: -434834186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 151
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51786bc515cb9874393b6cc019fd0ee1
+      internalID: 1977275430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 123
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6735d8436ef14f4c9812367fd928ad9
+      internalID: 647268380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 123
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916a6fabdcc52004490ae45f08c365c1
+      internalID: -270387636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 123
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e8b88f171f294ab398828ff269e8b
+      internalID: -1508320671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 124
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e704f5866a07f24aa03ce9a92f8c8bf
+      internalID: 787631549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 122
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44dfa19e615f3f449325e28201557b1
+      internalID: -1438409497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 131
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efae8793cb1dee34490efe29a7d6bdfd
+      internalID: -1863487692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 124
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9b577a2d0bcbe409062360e43c6236
+      internalID: 1767247270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 130
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf96925ca4372c4fa4fba99910c74ca
+      internalID: 1251335375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 121
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc98ce93350125409578c704f98ce0c
+      internalID: -1442845159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efabb485a77f694fa899aa4e9d427a0
+      internalID: -310564851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 81
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadfb08f7b565ef4b9f6f87493afd6f7
+      internalID: 150070122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 82
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4425b2fb24a83c3448e445a661500020
+      internalID: -1508265244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 81
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ff27ca2e3f83540bddcb6bc1475972
+      internalID: 2074584931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 80
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f957dbd75fedd72498e94d401fe283e6
+      internalID: 129946890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469e2693554dd1242bbf2f831f6cd3a5
+      internalID: 1771498754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbe8b27b520f5b4db3f99f1ddeda722
+      internalID: -1303819587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 78
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac3b9e4b638a340be657d7d53f202f
+      internalID: -2114795218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 51
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9072d33d2487fd24aa6834b742eecbd2
+      internalID: 903778633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 51
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b32e024633e9f49ba1356e42359baa
+      internalID: -793420606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8983abad3623fb48a4080c193364954
+      internalID: -1173845755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_47
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 51
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5255787ee0c72fa43a65de381640a339
+      internalID: 111843041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_48
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 58
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d57a3672d472df4c9f122dbd7cd526f
+      internalID: -878808360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 49
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754f42fc3395c8a408202be9531238e3
+      internalID: 641979437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325e102f42bc2549b6cf056c12624cf
+      internalID: -848225171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 49
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb63c6b04b20df49b8fed601c9e760d
+      internalID: 926696965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_52
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 48
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e55601883114340991f1c72b6e31d6
+      internalID: 704466657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_53
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 50
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf781f91d822dac4d97750ce5aa0da1b
+      internalID: 486539957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_54
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 23
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4034be7032926354eb7a5c033112108a
+      internalID: -1159515774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 26
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b914b618fb58a4b8909e1b72e1a893
+      internalID: -1739281148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_56
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 26
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4f3bf7b6836ab46b950a21aac12af4
+      internalID: -520453233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_57
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 26
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573ba1dd1e1c7d438456fb90d2f8c6b
+      internalID: 1898705552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e3d368f809d6648a4d3d84f8d3362e
+      internalID: -1177164972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_59
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 26
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a44502a766794046bda2b68eb15e3e5
+      internalID: -452368852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 26
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b068f2914528af45958de2fd04d2d63
+      internalID: -490185693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_61
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 26
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afaa2fb5903136499ca1dd75f834d2c
+      internalID: 779011628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_62
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 26
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afddde8721dbea4188bf8e01ed81f49
+      internalID: 874289401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 23
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a11fb807b2c45642b9153568ddc0317
+      internalID: -968019115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_64
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 26
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12e0d2ffd2e02147aa6a32131ce1430
+      internalID: -934783188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc92281c7ed2c49b48547e8cf4f2b0
+      internalID: 623246631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_66
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 11
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c4ac2c6b1b2bb458b54a92920d8e42
+      internalID: 1979291646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 11
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad789e599a33444e8f5b7f2adf22dd2
+      internalID: -317982652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8091617826064b8bc38ebe3b9b720
+      internalID: 182877102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1edcac1b30305f478efb55f315f54f8
+      internalID: 1611174608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 11
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d669ad4bcb86db4469a69a06fe9b56db
+      internalID: -551378796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_71
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 11
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d219f22e75e5024182d4bb1391f0328
+      internalID: 1667136062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 11
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfcf684e93a33c4f983438ecffeaa80
+      internalID: -779779419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_73
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 11
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a290727d53f98d44796a44d54f491f8c
+      internalID: -1748895752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Friendly Mole_74
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fe03a1bbd4a3b46b576c246f82e93a
+      internalID: 393566987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_35: -1442845159
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_54: -1159515774
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_56: -520453233
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_7: 594294393
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_61: 779011628
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_74: 393566987
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_36: -310564851
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_31: -1438409497
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_27: 647268380
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_51: 926696965
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_1: -142614963
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_15: -516534884
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_43: -2114795218
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_44: 903778633
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_64: -934783188
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_70: -551378796
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_68: 182877102
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_22: 164130779
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_67: -317982652
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_30: 787631549
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_13: 1334192208
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_8: 1228905794
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_18: -1893624616
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_58: -1177164972
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_66: 1979291646
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_60: -490185693
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_17: 123020715
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_4: 1546760892
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_29: -1508320671
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_9: 1663745543
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_11: 135977025
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_2: 110222677
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_37: 150070122
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_63: -968019115
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_16: -1742556847
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_23: 230146082
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_65: 623246631
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_72: -779779419
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_34: 1251335375
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_52: 704466657
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_48: -878808360
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_39: 2074584931
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_28: -270387636
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_49: 641979437
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_6: 193847315
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_25: -434834186
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_32: -1863487692
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_14: 1889516555
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_41: 1771498754
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_12: -1551775217
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_3: 1385518763
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_33: 1767247270
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_45: -793420606
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_10: -274857149
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_26: 1977275430
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_53: 486539957
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_38: -1508265244
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_20: -2041651360
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_73: -1748895752
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_59: -452368852
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_50: -848225171
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_21: 279080438
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_24: -1071942003
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_57: 1898705552
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_69: 1611174608
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_42: -1303819587
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_55: -1739281148
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_62: 874289401
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_19: 231301819
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_5: 1099419226
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_47: 111843041
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_71: 1667136062
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_46: -1173845755
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_0: 2088093586
+      Game Boy Advance - Mother 3 JPN - Friendly Mole_40: 129946890
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
