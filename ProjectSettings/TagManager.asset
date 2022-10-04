@@ -39,6 +39,21 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Sea
+    uniqueID: 1344241793
+    locked: 0
+  - name: Background
+    uniqueID: 3011759777
+    locked: 0
+  - name: Middleground
+    uniqueID: 316161477
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3679255265
+    locked: 0
+  - name: Details
+    uniqueID: 1972672635
     locked: 0
