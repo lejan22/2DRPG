@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public static bool playerCreated;
+
     public float speed = 5.0f;
     public const string HORIZONTAL = "Horizontal", VERTICAL = "Vertical";
     private float inputTol = 0.2f; // Tol es lo mucho que presionas la tecla. La tolerancia va del 0 a uno
@@ -20,6 +22,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        playerCreated = true;
         playerAudioSource = GetComponent<AudioSource>();
     }
     private void Awake()
@@ -53,7 +56,10 @@ public class PlayerController : MonoBehaviour
             isWalking = true;
             lastDirection = new Vector2(0, YInput);
         }
-       
+       if (Input.GetKeyUp(KeyCode.Space))
+        {
+            playerAudioSource.Stop();
+        }
         if (Input.GetKey(KeyCode.Space))
         {
             isTalking = true;
