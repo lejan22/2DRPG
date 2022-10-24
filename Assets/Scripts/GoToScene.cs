@@ -8,6 +8,7 @@ public class GoToScene : MonoBehaviour
     public bool isAutomatic;
     public bool manualEnter;
     public string sceneName = "New Scene name here";
+    public string uuid; //Hace referencia a universal unique identifier
     // Start is called before the first frame update
     void Start()
     {
@@ -26,7 +27,9 @@ public class GoToScene : MonoBehaviour
     //Teleport automatico
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.name == "Player")
+        Teleport(other.name);
+        //Al hacer lo de Teleport(other.name) ya no hace falta poner esto
+       /* if(other.name == "Player")
         {
             if (isAutomatic)
             {
@@ -34,18 +37,31 @@ public class GoToScene : MonoBehaviour
             }
            
         }
+       */
 
     }
     //Teleport Manual
     private void OnTriggerStay2D(Collider2D other)
     {
-        if (other.name == "Player")
+        Teleport(other.name);
+       /* if (other.name == "Player")
         {
             if(!isAutomatic && manualEnter)
             {
                 SceneManager.LoadScene(sceneName);
             }
         }
+       */
     }
-
+    private void Teleport (string objName)
+    {
+        if(objName == "Player")
+        {
+            if(isAutomatic || (isAutomatic && manualEnter))
+            {
+                FindObjectOfType<PlayerController>().nextUuid = uuid;
+                SceneManager.LoadScene(sceneName);
+            }
+        }
+    }
 }

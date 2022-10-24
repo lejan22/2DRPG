@@ -13,9 +13,11 @@ public class PlayerController : MonoBehaviour
 
     private bool isWalking;
     private bool isTalking;
-    private Vector2 lastDirection;
+    public Vector2 lastDirection;
     private Animator _animator;
     private Rigidbody2D _rigidbody;
+
+    public string nextUuid;
 
     public AudioClip Speak;
     private AudioSource playerAudioSource;

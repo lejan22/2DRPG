@@ -5207,7 +5207,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.72156864, g: 0.8156863, b: 1, a: 1}
   m_Origin: {x: -17, y: -15, z: 0}
   m_Size: {x: 97, y: 37, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -5229,6 +5229,71 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1001 &743796271
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748048, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748049, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: uuid
+      value: Mine-Entrance
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748049, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: facingDirection.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4966820659014748054, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
+      propertyPath: m_Name
+      value: Start Point
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f8fdf1e0ad3f1a7488839221271d72fc, type: 3}
 --- !u!1 &834114925
 GameObject:
   m_ObjectHideFlags: 0
@@ -16622,7 +16687,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.72156864, g: 0.8156863, b: 1, a: 1}
   m_Origin: {x: -14, y: -10, z: 0}
   m_Size: {x: 82, y: 24, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -33071,7 +33136,7 @@ Tilemap:
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.7216981, g: 0.8162712, b: 1, a: 1}
   m_Origin: {x: -17, y: -16, z: 0}
   m_Size: {x: 99, y: 40, z: 1}
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
@@ -35326,6 +35391,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1492519918}
     m_Modifications:
+    - target: {fileID: 5654418188056490348, guid: 7efdc4c6d60dac144bc4d0fa74a72fb1, type: 3}
+      propertyPath: uuid
+      value: Beach-MineEntrance
+      objectReference: {fileID: 0}
     - target: {fileID: 5654418188056490348, guid: 7efdc4c6d60dac144bc4d0fa74a72fb1, type: 3}
       propertyPath: sceneName
       value: Beach Scene
