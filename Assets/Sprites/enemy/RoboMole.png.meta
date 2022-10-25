@@ -1,0 +1,1059 @@
+fileFormatVersion: 2
+guid: 64b41b3f125f4db4d989034f307f5350
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 187
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9b212d98a9de54bbe9c490f097c868
+      internalID: -1610996942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 183
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c717fb3a454c1f6468a786b148f899fd
+      internalID: 1189730594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 184
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62716b2895e60f647ab31bc9c5b38063
+      internalID: -467812576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 185
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83e84499b984234bbc5d05bc991a3b5
+      internalID: -393363479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 185
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205bfb91784622a4d9c770c848aa65b1
+      internalID: 248086032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 183
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2ced1f6a43ee443bf33c964a1d064f
+      internalID: -1130752977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 181
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a05365ca7e2b14b8c4a908f7c1f91b
+      internalID: 843221014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612bcecac3e9e784faa735e370164348
+      internalID: -1699023466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 155
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a47bbc65940ef47bcbc1ff48b39a66
+      internalID: -246086487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 154
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e840c37f027d1854d8cdaab021f34661
+      internalID: 1516204005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c93ddbe5300d644810c200506c601b
+      internalID: 1144092477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a924421ed217e340874b421b08d57c6
+      internalID: 2063849293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 131
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a363af5aececaf1478575f1bb24f3708
+      internalID: 1932785316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 105
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c104cd77330301489082c5e995fc3a9
+      internalID: -1586852374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 106
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e6212d6b3c9314baca2614ecc3b0bd
+      internalID: 389704564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 105
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed91813ac9689479694010dd01a0f4
+      internalID: -555804883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_16
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 85
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127b82fffe90f9e49878ccd936c3adc0
+      internalID: -1442100012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 85
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384191a074132643abaf1ae9dcf7715
+      internalID: -1309152173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 86
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63946b5f96dbec34aa4c1439f1eb089f
+      internalID: -340909230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 42
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2507b113d3a5b247a243c095ad4ea3b
+      internalID: -1155278325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a38da99ae2624a9c980b21fe899f6
+      internalID: -1836201766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 21
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebed26f6f2a597428472cd572ec453d
+      internalID: 2049638344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 24
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7480f2a6c6cc4e809c910d862e21e
+      internalID: -545207914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d91f950f494bf41b6c09f7b247f389
+      internalID: -550005811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6184658d436401f4ea6a6091bdd07e84
+      internalID: 938284487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db11699bfe2718d49be3d1f61eabb98c
+      internalID: -1888579206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 24
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d5df8ccfa1e2f4c8c243504befcdee
+      internalID: -1345943804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 24
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c90d9dbc1fb8045ba212febcc18ac0
+      internalID: 1708657760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_28
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 24
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e2effb98e8acf4db883a5d6cf38459
+      internalID: -1916979174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 24
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02170392fd5fc594db9fba804d68fc5d
+      internalID: -244970462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 21
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a76d1975fc8a4389b48b518a16085
+      internalID: 316374253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 24
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c487e7687516fd409a5760f184b6a7e
+      internalID: -111704041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9772ff4a5255d49a10354470d571b1
+      internalID: 1574832012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5289a0de549e442952d1d445fdcc73
+      internalID: 1369908222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f41b00dfef83944692f210af34e08c4
+      internalID: -1686666573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 9
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d65edd62011d14dbe45d6ba98f1aa1
+      internalID: -1941617012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc3c3611f54eb04c9625c4928e2a4c8
+      internalID: 363934996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b9142168f98994392687a58305fae9
+      internalID: 856466960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea2ed29767582a4294ef59e36d13faf
+      internalID: 972042520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9f54139dcaf7f46a2b0da356217ad1
+      internalID: 168456246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 9
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698993992dde8794799be25e883acb17
+      internalID: 1525058759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Mecha-Mole_41
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f99cc44f527e3f4392441b03f175af9
+      internalID: 959887081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_34: -1686666573
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_8: -246086487
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_2: -467812576
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_5: -1130752977
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_19: -1155278325
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_3: -393363479
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_39: 168456246
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_1: 1189730594
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_25: -1888579206
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_37: 856466960
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_14: 389704564
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_20: -1836201766
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_21: 2049638344
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_6: 843221014
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_40: 1525058759
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_23: -550005811
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_32: 1574832012
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_7: -1699023466
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_18: -340909230
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_41: 959887081
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_12: 1932785316
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_9: 1516204005
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_17: -1309152173
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_10: 1144092477
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_38: 972042520
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_0: -1610996942
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_31: -111704041
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_15: -555804883
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_30: 316374253
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_24: 938284487
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_22: -545207914
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_13: -1586852374
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_29: -244970462
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_4: 248086032
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_35: -1941617012
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_27: 1708657760
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_28: -1916979174
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_36: 363934996
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_16: -1442100012
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_11: 2063849293
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_33: 1369908222
+      Game Boy Advance - Mother 3 JPN - Mecha-Mole_26: -1345943804
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

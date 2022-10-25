@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: 9063785d5ab29c44a9cc93630054628a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 265
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dfa2c4b8a210745a23bccc2afab7bb
+      internalID: 306297200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 266
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af2d371b599a0e458deaf332f477596
+      internalID: -1039042052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 265
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddec4789862a23e42918cd590ff58814
+      internalID: -1399413965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 217
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fce1c195a47494d93764b9e0436210
+      internalID: -1926335562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 216
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413d5042b5460fa42b01e9604cf8c1b5
+      internalID: 1479608873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 216
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5794e2c191980468572407be13b744
+      internalID: 736161355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 164
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2763f879d59b4949967e1fc7270ed59
+      internalID: 1702461596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 165
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb59a7b38ef7ba543a1b271bac7d47ac
+      internalID: -524161791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 165
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245ff47d68d69b34eab94800af1805dc
+      internalID: -569478048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5520e5a4be9a94eb19969259b1a42c
+      internalID: -954411273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 82
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0918bf601887ecb419568f777a3f0392
+      internalID: 262459835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 52
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0ca5bb8c1f42d459c72b855693cea4
+      internalID: 944758072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 55
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d10bc91005eda42a8e244cecec13b2
+      internalID: -1225471969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49d13fab13bdbb49a2002a9df2fabed
+      internalID: -1256513955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 55
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6bdbeb36bf25f4a8dfdf4267751d47
+      internalID: -1901898082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b712bacee5ad04d883d4400e7d0b53
+      internalID: 133851593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 55
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44dba60600183d4581148f0f99c7453
+      internalID: 1945477556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58a549a20c1ca4e871307ff2ff81e9
+      internalID: 172373897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 55
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118091eaa7b8f694ba54b9befd869790
+      internalID: 1558269519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 55
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11cb25165576be4fa852c24804cee2c
+      internalID: 890099540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 52
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54e95c205c90f74f8a298b1d1dfc9f4
+      internalID: -1827871089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 55
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fe2223e810e2e46ba538faf532b1fc
+      internalID: 1922018874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514a63fd038f9cc468484cc03a86809c
+      internalID: 984381196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 40
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db608ed29eefdb46be6d4195e49098a
+      internalID: -1584108429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd006aabad64ca24dafa0409c3061b23
+      internalID: 457322270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 40
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13152303dcd74ce4982728f3b878015a
+      internalID: -1181904722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 40
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0825255755c1cf4b822a4f731aafc62
+      internalID: -659802563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 40
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed2f121e9136124f890d82bc52fcaa9
+      internalID: 451067253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 40
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87e7bc18e8f9434d943ec589506794c
+      internalID: 664352454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffabb48c06cef5b40acb74c3da1b871d
+      internalID: -1562449210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 40
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d63041a106dd48bb90fcbbd250ffc
+      internalID: -485608590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f1502bfafc38d479f0945824723b89
+      internalID: 318390262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ecef91d94c974aba45bbb74ab8d1c
+      internalID: 455883098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 24
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97537c348fcce844810e04adba95c4c
+      internalID: -451142302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 24
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e835aa5996eba4b98f8f0bdd967042
+      internalID: 1497269728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 21
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9cf4e5f2396d54d819b7223c2f4d04
+      internalID: -1019207749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_36
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 24
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3536d7ff3d75f84f897a1f9141f3459
+      internalID: 979921519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759bd2fa0cd53784194ee767cf971c91
+      internalID: 2005634522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 21
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9b69025a02c944baf0824f6106dbc2
+      internalID: -1262655440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_39
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 24
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dbe9659fbb9bb4c983c27ed8f682ee
+      internalID: -848665327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9020e72b5e37ee4aaabf86652a9ff85
+      internalID: -1157218606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ae43e5cf4f0754a946596b399822cb
+      internalID: 1067845981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 21
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf7fe6f48139664b8f73f29ab1ff9ea
+      internalID: -305216697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_43
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 24
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3add7d0c836ec4eb3371b7bea497f0
+      internalID: -1571021035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 24
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d160a1841ef70df43a1b2c8b3a913564
+      internalID: 1788396284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 24
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e94b5a7516b24c876a7f5bb88991a
+      internalID: -480779253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_46
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 24
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56969de0e4b8e434cb004fe4c491d040
+      internalID: -1554113185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_47
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 24
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce456652b2c59b4392879e714db611c
+      internalID: 27804740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d01d064acd3a04985cc8d002f82f7d
+      internalID: 1797342642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794f246bb8d146343bdafdcb842e94c3
+      internalID: 1132011455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a080148827884eb7034340476619f
+      internalID: -558247540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 9
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7dc97e8d6a5b14c965119bb7333510
+      internalID: -614564087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b405db9f8c2fd499469600dd1c4fc4
+      internalID: -831286892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 9
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07e9f815a8d16648bae260451459ec1
+      internalID: -1592645204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242bf25f9dd36574b9948daf8b8c531c
+      internalID: -550620108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_55
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547b5499c62d504e8e5b2912558d505
+      internalID: -290511600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_56
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cfbfa5f210d7b40a75e7ec9be1a2ff
+      internalID: 870109665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_57
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6b692de627bee40934c8f53d2357a2
+      internalID: 895435909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_48: 1797342642
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_31: 318390262
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_52: -831286892
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_11: 944758072
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_2: -1399413965
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_6: 1702461596
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_15: 133851593
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_13: -1256513955
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_25: -1181904722
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_28: 664352454
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_10: 262459835
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_37: 2005634522
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_40: -1157218606
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_49: 1132011455
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_19: 890099540
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_8: -569478048
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_35: -1019207749
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_57: 895435909
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_0: 306297200
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_20: -1827871089
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_46: -1554113185
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_5: 736161355
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_55: -290511600
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_27: 451067253
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_34: 1497269728
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_47: 27804740
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_22: 984381196
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_33: -451142302
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_42: -305216697
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_32: 455883098
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_41: 1067845981
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_21: 1922018874
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_30: -485608590
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_7: -524161791
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_12: -1225471969
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_51: -614564087
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_24: 457322270
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_9: -954411273
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_18: 1558269519
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_23: -1584108429
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_53: -1592645204
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_39: -848665327
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_4: 1479608873
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_16: 1945477556
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_3: -1926335562
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_44: 1788396284
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_56: 870109665
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_43: -1571021035
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_26: -659802563
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_54: -550620108
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_36: 979921519
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_50: -558247540
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_14: -1901898082
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_29: -1562449210
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_17: 172373897
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_1: -1039042052
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_38: -1262655440
+      Game Boy Advance - Mother 3 JPN - Steel Mechorilla (1)_45: -480779253
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

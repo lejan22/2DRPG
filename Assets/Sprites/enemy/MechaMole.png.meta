@@ -1,0 +1,1345 @@
+fileFormatVersion: 2
+guid: b98daafd7d5111f429db33367ba6e0d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 215
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0069eb39781f7044ea10ecced0dd009e
+      internalID: -366956036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 215
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ebe5eeb8a81594da2453bb694ca53d
+      internalID: 1384752527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 215
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4261ef2bdd3037b46b6608e7f009ddf2
+      internalID: 64291048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 193
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c7d92ba54feb4abdeb0e531a3322f
+      internalID: 687402347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072b8fcf7e0103a458b0b7b6682691ef
+      internalID: -1438396912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 193
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23dba86c779bfb4f9fa15b831b88dbe
+      internalID: 1904304662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 172
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b943426de27ab34696058fced2b9513
+      internalID: -1704109059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c827c3b69acccb4ea87c834a5037b90
+      internalID: -1849833584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 171
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d0851ab0d00f499eaa52074ea0937
+      internalID: -1547122153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 150
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0465b7d28819f64e85c35c01f000661
+      internalID: -866457191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 148
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb43090b23183da4faf357c9da38425a
+      internalID: -1376267774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 149
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b639245e8a214e42b49ffd79e91d029
+      internalID: 1732242046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 122
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c80c373726c74cb246d3e481e7226
+      internalID: 1939511994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 122
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14209071d539c748a3e94910d4b6468
+      internalID: 1026847405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9467ea8522d52fe49bac066ef7e9b74a
+      internalID: -448509803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 117
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8ec3b6d2bce6440aff3b7b6d47054b
+      internalID: 1358931518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 119
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe0d79969b9cfc4e92c1a1030607d6a
+      internalID: 2127003134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 120
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b4dcd332769a444b6e7baf1f150733
+      internalID: 364010916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 121
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0655b2d55c6803945991175df92126e6
+      internalID: 1609264635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 121
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae111cd2c42d04447a236f3348c80805
+      internalID: 56551353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_20
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 120
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4d3405d293d1345aeffe8035b20b66
+      internalID: 1947840527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 87
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b739560be8fa0e9418a725dac77ad0cc
+      internalID: 1187535920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 88
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ef93a022ff1ef4ebaca4ad1123307c
+      internalID: 1818172920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8536f8730c9ebd4498311637f3e9ee0
+      internalID: 358437555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 89
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e45ff687f1b5e40a475942ad430701
+      internalID: 867846769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 90
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29b7e8d32682ce438461d3c403c6504
+      internalID: -592399465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 90
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817fec2fe2dce5d4fbb643ffbad3f544
+      internalID: 421524486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42823a99d7303b46ae740a7c26b9370
+      internalID: -805163127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 89
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb5cf01b1d02aa4e8a330aa495567a4
+      internalID: -675594943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 91
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca98d1b884b7dac49a81818cb4d3c5c7
+      internalID: 182797986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 91
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e8ccc646fce9842a1679fdfc92f18f
+      internalID: -599841474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_31
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 90
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b761b809ca090c84bb1a21f6b57dc511
+      internalID: 16081671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 45
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68415248d8aa704418b8d334e4792d89
+      internalID: 220294752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 46
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b00ea403b9f5f4bbd7c39c01057df1
+      internalID: 2092407214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_34
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 23
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0854d58024de9542902af1854ebf6a6
+      internalID: 47990233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_35
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 26
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d6e4ba5bd3bf459fd5c3d6e3b09aa
+      internalID: -1447604494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_36
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 26
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713430dd4a2994b44bee27071fe57e3a
+      internalID: -995822854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 26
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48c350eccb782242814bd7c33445e5c
+      internalID: -338922601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 23
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6628a765cd26442bef1ef93eebfc01
+      internalID: 1096237972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 26
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6ea9507fbfb3b488090ce75e8c53a6
+      internalID: 1824467228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 26
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01c8a0b958d12f4d8fb6b6187b4847b
+      internalID: 1931163794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 26
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830f868ec40343342aeef456ad78b78a
+      internalID: -1151228876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 26
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf868045024554bb7af97c6dd429a4
+      internalID: 1877865452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_43
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 23
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0630e5ec5ae02f74084978a04517c6d9
+      internalID: 688996697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 26
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3632183da2b1fba40974ca1e5d361881
+      internalID: -1720152240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4160f0b9d329fd48a3d044ce6d72c90
+      internalID: 360766742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 11
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bafaeaa18df3e4392a5a0810ccaa5d
+      internalID: -148823719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 11
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d7b4db480d7ad44bf332e29f144cb2
+      internalID: 1824420885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_48
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 11
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b2b7f5c907c9f43815b10bbd3cd2d7
+      internalID: 1043189677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_49
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 11
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44660584b4f54e344b45d037a51b34af
+      internalID: 1275359873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 11
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d79180d2ff46ca448ca427595103003
+      internalID: -1946361054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 11
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba16d53eb28ad44bb79a82b0172e5c8
+      internalID: -858098303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 11
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0e30441ea892a4aae1747da68b8ac5
+      internalID: -1597292131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef1720f565338b4e81ce8d2ae1d86e0
+      internalID: 518174575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mother 3 JPN - Reconstructed Mole_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 11
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d246d18fb29055441baaeeca78f7f554
+      internalID: -128298680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_2: 64291048
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_12: 1939511994
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_40: 1931163794
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_31: 16081671
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_32: 220294752
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_48: 1043189677
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_21: 1187535920
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_15: 1358931518
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_27: -805163127
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_20: 1947840527
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_10: -1376267774
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_37: -338922601
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_53: 518174575
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_23: 358437555
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_18: 1609264635
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_36: -995822854
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_9: -866457191
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_17: 364010916
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_35: -1447604494
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_50: -1946361054
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_22: 1818172920
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_51: -858098303
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_1: 1384752527
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_8: -1547122153
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_54: -128298680
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_16: 2127003134
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_28: -675594943
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_47: 1824420885
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_42: 1877865452
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_34: 47990233
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_33: 2092407214
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_29: 182797986
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_4: -1438396912
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_39: 1824467228
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_11: 1732242046
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_24: 867846769
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_49: 1275359873
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_7: -1849833584
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_43: 688996697
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_38: 1096237972
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_52: -1597292131
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_6: -1704109059
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_26: 421524486
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_5: 1904304662
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_14: -448509803
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_46: -148823719
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_25: -592399465
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_41: -1151228876
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_0: -366956036
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_44: -1720152240
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_30: -599841474
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_3: 687402347
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_19: 56551353
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_45: 360766742
+      Game Boy Advance - Mother 3 JPN - Reconstructed Mole_13: 1026847405
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
