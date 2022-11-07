@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 5956530953358040698}
   - component: {fileID: 5956530953358040699}
   - component: {fileID: 1905993097563529598}
+  - component: {fileID: -5819261286487475896}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -103,6 +104,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  lastDirection: {x: 0, y: 0}
+  nextUuid: 
   Speak: {fileID: 8300000, guid: c1f4278d4f88557459c39d42c44ff76d, type: 3}
 --- !u!95 &5956530953358040693
 Animator:
@@ -277,5 +280,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 56fefac3d0c382848af02da5e18443a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-5819261286487475896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5956530953358040689}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e625064d04246884e90c9dd110f74fea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
