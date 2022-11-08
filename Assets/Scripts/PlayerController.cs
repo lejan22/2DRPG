@@ -68,6 +68,16 @@ public class PlayerController : MonoBehaviour
             playerAudioSource.PlayOneShot(Speak, 1);
         } 
             
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            speed = 7;
+            _animator.speed = 2;
+        }
+        if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            speed = 5;
+            _animator.speed = 1;
+        }
     }
     private void LateUpdate()
     {

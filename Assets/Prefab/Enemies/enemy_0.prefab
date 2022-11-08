@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 3395216830032760455}
   - component: {fileID: -2017261733349224960}
   - component: {fileID: -958841704292805042}
+  - component: {fileID: -918991933582299676}
   m_Layer: 6
   m_Name: enemy_0
   m_TagString: Untagged
@@ -140,7 +141,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -179,3 +180,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeToRevivePlayer: 3
+  damage: 10
+--- !u!114 &-918991933582299676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8344965325732257648}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e625064d04246884e90c9dd110f74fea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 10
