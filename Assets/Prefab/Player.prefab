@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1238697724889215102}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.453, y: -0.099, z: 0}
+  m_LocalPosition: {x: 0.444, y: -0.107, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -142,6 +142,7 @@ MonoBehaviour:
   lastDirection: {x: 0, y: 0}
   nextUuid: 
   Speak: {fileID: 8300000, guid: c1f4278d4f88557459c39d42c44ff76d, type: 3}
+  attackTime: 1
 --- !u!95 &5956530953358040693
 Animator:
   serializedVersion: 4

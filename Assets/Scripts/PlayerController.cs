@@ -21,6 +21,10 @@ public class PlayerController : MonoBehaviour
 
     public AudioClip Speak;
     private AudioSource playerAudioSource;
+
+    private bool isAttacking;
+    [SerializeField] private float attackTime;
+    private float attackTimeCounter;
     // Start is called before the first frame update
     void Start()
     {
@@ -38,6 +42,19 @@ public class PlayerController : MonoBehaviour
     {
         xInput = Input.GetAxisRaw(HORIZONTAL);
         isWalking = false;
+        if (isAttacking)
+        {
+            attackTimeCounter -= Time.deltaTime;
+            if (attackTimeCounter < 0)
+            {
+                isAttacking = false;
+            }
+        }
+        else if (Input.GetMouseButtonDown(0))
+        {
+            isAttacking = true;
+            attackTimeCounter = attackTime;
+        }
         isTalking = false;
         //Horizontal Movement
         if (Mathf.Abs(xInput) > inputTol)
@@ -79,6 +96,7 @@ public class PlayerController : MonoBehaviour
             _animator.speed = 1;
         }
     }
+
     private void LateUpdate()
     {
         _animator.SetFloat(HORIZONTAL, xInput);
@@ -87,8 +105,9 @@ public class PlayerController : MonoBehaviour
         _animator.SetFloat("LastVertical", lastDirection.y);
         _animator.SetBool("IsWalking", isWalking);
         _animator.SetBool("IsTalking", isTalking);
+        _animator.SetBool("IsAttacking", isAttacking);
 
-        if (!isWalking)
+        if (!isWalking|| isAttacking)
         {
             _rigidbody.velocity = Vector2.zero;
         }
