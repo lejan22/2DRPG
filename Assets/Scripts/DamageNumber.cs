@@ -12,13 +12,14 @@ public class DamageNumber : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        damageText.text = damagePoints.ToString();
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        damageText.text = damagePoints.ToString();
+        
         transform.position = new Vector3(
             transform.position.x, transform.position.y + verticalSpeed * Time.deltaTime, 0);
         transform.localScale *= 1 - Time.deltaTime / scaleFactor;

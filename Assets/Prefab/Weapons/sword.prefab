@@ -127,6 +127,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 30
   bloodParticle: {fileID: 6885265370704589262, guid: b894508a36f4d7e4fb8640d6675eb365, type: 3}
+  canvasDamageNumber: {fileID: 8344437286396741805, guid: 51bcbaf4aed59b94faae4ea2aabc3cc3, type: 3}
 --- !u!1 &5007515368895238889
 GameObject:
   m_ObjectHideFlags: 0

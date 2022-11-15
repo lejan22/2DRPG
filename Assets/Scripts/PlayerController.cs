@@ -10,6 +10,8 @@ public class PlayerController : MonoBehaviour
     public const string HORIZONTAL = "Horizontal", VERTICAL = "Vertical";
     private float inputTol = 0.2f; // Tol es lo mucho que presionas la tecla. La tolerancia va del 0 a uno
     private float xInput, YInput;
+   
+    public bool canMove = true;
 
     private bool isWalking;
     private bool isTalking;
@@ -30,6 +32,7 @@ public class PlayerController : MonoBehaviour
     {
         playerCreated = true;
         playerAudioSource = GetComponent<AudioSource>();
+        lastDirection = Vector2.down;
     }
     private void Awake()
     {
@@ -42,6 +45,10 @@ public class PlayerController : MonoBehaviour
     {
         xInput = Input.GetAxisRaw(HORIZONTAL);
         isWalking = false;
+        if (!canMove)
+        {
+            return;
+        }
         if (isAttacking)
         {
             attackTimeCounter -= Time.deltaTime;
