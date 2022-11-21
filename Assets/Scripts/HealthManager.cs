@@ -11,6 +11,9 @@ public class HealthManager : MonoBehaviour
     [SerializeField] float blinkingDuration;
     private float blinkingCounter;
     private SpriteRenderer _characterRenderer;
+    public int expWhenDefeated;
+    
+
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +29,11 @@ public class HealthManager : MonoBehaviour
         if (currentHealth <= 0)
         {
             gameObject.SetActive(false);
+            if (gameObject.tag.Equals("Enemy"))
+                {
+                GameObject.Find("Player").GetComponent<CharacterStats>().
+                 AddExperience(expWhenDefeated);
+            }
         }
         if (blinkingDuration > 0)
         {

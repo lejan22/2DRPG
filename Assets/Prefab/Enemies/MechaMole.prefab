@@ -189,6 +189,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   blinkingDuration: 0
+  expWhenDefeated: 20
 --- !u!114 &4178719002410656589
 MonoBehaviour:
   m_ObjectHideFlags: 0

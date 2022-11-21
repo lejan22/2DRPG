@@ -9,6 +9,7 @@ public class WeaponDamage : MonoBehaviour
     public GameObject bloodParticle;
     public GameObject canvasDamageNumber;
     private GameObject hitPoint;
+    public int index;
 
     // Start is called before the first frame update
     void Start()

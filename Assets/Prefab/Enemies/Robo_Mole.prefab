@@ -158,6 +158,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 100
   blinkingDuration: 0
+  expWhenDefeated: 30
 --- !u!50 &2009658451
 Rigidbody2D:
   serializedVersion: 4
