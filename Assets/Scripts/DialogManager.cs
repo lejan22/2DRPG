@@ -11,14 +11,15 @@ public class DialogManager : MonoBehaviour
     [TextArea]
     public string[] dialogLines;
     public int currentDialogLine;
-    public string[] npcDialogLines;
+    
 
-
+    private PlayerController playerController;
     // Start is called before the first frame update
     void Start()
     {
+        playerController = FindObjectOfType<PlayerController>();
         HideDialog();
-
+        
     }
 
     // Update is called once per frame
@@ -38,11 +39,6 @@ public class DialogManager : MonoBehaviour
             
         }
     }
-    public void HideDialog()
-    {
-        isDialogActive = false;
-        dialogPanel.SetActive(isDialogActive);
-    }
     public void ShowDialog(string[] lines)
     {
         currentDialogLine = 0;
@@ -51,6 +47,14 @@ public class DialogManager : MonoBehaviour
         isDialogActive = true;
         dialogPanel.SetActive(isDialogActive);
         dialogTextBox.text = dialogLines[currentDialogLine];
-
+        playerController.isSpeaking = true;
     }
+    public void HideDialog()
+    {
+        playerController.isSpeaking = false;
+        isDialogActive = false;
+        dialogPanel.SetActive(isDialogActive);
+        
+    }
+   
 }

@@ -10,6 +10,7 @@ public class NPCDialog : MonoBehaviour
     public string[] npcDialogLines;
     private DialogManager dialogManager;
     private bool isPlayerInDialogZone;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -40,7 +41,7 @@ public class NPCDialog : MonoBehaviour
         {
             if (npcName != null)
             {
-                finalDialog[i] = $"{npcName}\n{ npcDialogLines[1]}";
+                finalDialog[i] = $"{npcName}\n{ npcDialogLines[i]}";
             }
             else
             {

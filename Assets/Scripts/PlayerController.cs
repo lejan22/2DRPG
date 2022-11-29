@@ -27,12 +27,16 @@ public class PlayerController : MonoBehaviour
     private bool isAttacking;
     [SerializeField] private float attackTime;
     private float attackTimeCounter;
+
+    public bool isSpeaking;
     // Start is called before the first frame update
     void Start()
     {
         playerCreated = true;
         playerAudioSource = GetComponent<AudioSource>();
         lastDirection = Vector2.down;
+
+        isSpeaking = false;
     }
     private void Awake()
     {
@@ -101,6 +105,12 @@ public class PlayerController : MonoBehaviour
         {
             speed = 5;
             _animator.speed = 1;
+        }
+
+        if (isSpeaking)
+        {
+            _rigidbody.velocity = Vector2.zero;
+            return;
         }
     }
 
